@@ -1,0 +1,11 @@
+--2024-06-16 21:40:13--  https://images.unsplash.com/photo-1712609036335-ff1bb47e803a?w=500
+Resolving images.unsplash.com (images.unsplash.com)... 151.101.126.208, 2a04:4e42:1e::720
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.126.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8252 (8.1K) [image/jpeg]
+Saving to: ‘my_image.jpg’
+
+my_image.jpg                    0%[                                                  ]       0  --.-KB/s               my_image.jpg                  100%[=================================================>]   8.06K  --.-KB/s    in 0s      
+
+2024-06-16 21:40:14 (117 MB/s) - ‘my_image.jpg’ saved [8252/8252]
+
